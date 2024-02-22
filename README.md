@@ -12,3 +12,9 @@
 - ​📱​ Currently, I develop applications as a trainee.
 - ​📱​ Learning Java, Kotlin, JavaScript, React.
 - ​👨‍⚕️​​ I also conduct online talks and guidance sessions on health. You can schedule them here: [https://qualitycaresco.com/]
+
+---
+
+### 📊​ My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakDev&theme=dark)](https://git.io/streak-stats)
