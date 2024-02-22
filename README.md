@@ -9,7 +9,6 @@
 ### 👉​About Me :
 
 - ​📱​ Curious mind and an unwavering commitment to excellence
-- ​📱​ Currently, I develop applications as a trainee.
 - ​📱​ Learning Java, Kotlin, JavaScript, React.
 - ​👨‍⚕️​​ I also conduct online talks and guidance sessions on health. You can schedule them here: [https://qualitycaresco.com/]
 
